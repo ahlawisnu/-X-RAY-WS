@@ -1,4 +1,4 @@
-# -X-RAY-WS
+# SCRIPT TUNNEL X-RAY-WS
 
 Berikut adalah panduan lengkap untuk membuat **script otomatis di VPS** yang bertujuan untuk:
 
