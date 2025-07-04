@@ -154,9 +154,3 @@ certbot renew --dry-run
 - Jika menggunakan CDN (seperti Cloudflare), pastikan mode proxy OFF agar bisa dapat sertifikat SSL langsung.
 - Gunakan domain aktif yang point ke IP VPS.
 - Jika ingin menambah pengguna atau UUID, edit file `/usr/local/etc/xray/config.json` dan tambahkan `"clients"` baru.
-
----
-
-Jika kamu ingin versi dengan **multipath**, **multiuser**, atau **panel manajemen seperti XUI**, saya juga bisa bantu buatkan script tambahannya.
-
-Mau lanjut ke bagian itu?
